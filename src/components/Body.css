@@ -1,0 +1,53 @@
+.bodyDiv1 h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 100px;
+    
+}
+.h11{
+padding-top: 100px;
+}
+
+.bodyP{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    /* padding-top: 20px; */
+    color: gray;
+}
+ .bodyDiv1 .btns{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin-top: 30px;
+}
+.btn{
+    height: 60px;
+    width: 180px;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-left: 50px;
+    font-weight: 600;
+}
+.btn1{
+    height: 60px;
+    width: 180px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #00751f;
+    font-weight: 600;
+    border: none;
+    outline: none;
+}
+.btn1:hover{
+    cursor: pointer;
+}
+
+.bodyDiv1 .p1{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    color: gray;
+    padding-top: 50px;
+}
